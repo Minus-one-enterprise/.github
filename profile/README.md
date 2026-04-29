@@ -1,10 +1,6 @@
 <div align="center">
-<img src="assets/minus_one.png" alt="Minus One Enterprise" width="160" />
+<img src="assets/minus_one.png" alt="Minus One Enterprise" width="250" />
 
-<br>
-
-
-# MINUS ONE ENTERPRISE
 
 ### *Engineering Simplicity in a Complex Digital World*
 
@@ -31,11 +27,11 @@ The name **Minus One** embodies our core philosophy: reduce friction, eliminate 
 
 ## ![Products](https://img.shields.io/badge/-Our%20Products-0a0a0a?style=flat-square) 
 
-We build and maintain two product lines: a proprietary enterprise platform and an open-source AI tool.
+We build and maintain two product lines: a proprietary production grade student recommerce platform and an open-source AI tool.
 
 <br />
 
-### ![Proprietary](https://img.shields.io/badge/-Proprietary-red?style=flat-square) SaraSell — The Modern Digital Marketplace Platform
+### ![Proprietary](https://img.shields.io/badge/-Proprietary-red?style=flat-square)           SaraSell — The Modern Digital Marketplace Platform
 
 <div align="center">
 
