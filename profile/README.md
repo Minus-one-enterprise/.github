@@ -1,4 +1,8 @@
 <div align="center">
+<img src="assets/minus_one.png" alt="Minus One Enterprise" width="160" />
+
+<br>
+
 
 # MINUS ONE ENTERPRISE
 
@@ -7,57 +11,47 @@
 ---
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)
-![Access](https://img.shields.io/badge/Access-Closed%20Source-critical?style=flat-square)
 ![Stack](https://img.shields.io/badge/Stack-Full%20Stack%20Enterprise-blue?style=flat-square)
 
 </div>
 
 ---
 
-## ![About](https://img.shields.io/badge/-About%20Us-0a0a0a?style=flat-square) About Us
+## ![About](https://img.shields.io/badge/-About%20Us-0a0a0a?style=flat-square) 
 
 **Minus One Enterprise** is a privately held, technology-driven organization dedicated to building enterprise-grade software systems that eliminate unnecessary complexity from modern digital interactions.
 
-We engineer powerful, scalable platforms that combine rigorous backend architecture, intuitive user experiences, and cloud-native infrastructure — all under a fully proprietary, closed-source model.
+We engineer powerful, scalable platforms that combine rigorous backend architecture, intuitive user experiences, and cloud-native infrastructure. Our portfolio spans both **proprietary enterprise products** and **open-source developer tools**.
 
-> *The best technology is not the most complex — it is the technology that removes complexity.*
+> *The best technology is not the most complex it is the technology that removes complexity.*
 
 The name **Minus One** embodies our core philosophy: reduce friction, eliminate inefficiency, and deliver systems that work seamlessly for the people who depend on them.
 
 ---
 
-## ![Closed Source](https://img.shields.io/badge/-Closed%20Source%20%26%20Proprietary-0a0a0a?style=flat-square) Closed Source & Proprietary
+## ![Products](https://img.shields.io/badge/-Our%20Products-0a0a0a?style=flat-square) 
 
-All intellectual property, source code, systems, designs, and documentation produced by Minus One Enterprise are **strictly proprietary and confidential**.
+We build and maintain two product lines: a proprietary enterprise platform and an open-source AI tool.
 
-- ![No](https://img.shields.io/badge/-%E2%9C%95-red?style=flat-square) No public repositories
-- ![No](https://img.shields.io/badge/-%E2%9C%95-red?style=flat-square) No open-source contributions or forks
-- ![No](https://img.shields.io/badge/-%E2%9C%95-red?style=flat-square) No external access without explicit authorization
-- ![Yes](https://img.shields.io/badge/-%E2%9C%93-brightgreen?style=flat-square) All code is internally managed, version-controlled, and access-restricted
-- ![Yes](https://img.shields.io/badge/-%E2%9C%93-brightgreen?style=flat-square) Systems are secured under enterprise-grade access controls and NDAs
+<br />
 
-Unauthorized use, reproduction, or distribution of any Minus One Enterprise intellectual property is strictly prohibited.
-
----
-
-## ![Flagship](https://img.shields.io/badge/-Flagship%20Product-0a0a0a?style=flat-square) Our Flagship Product — SaraSell
+### ![Proprietary](https://img.shields.io/badge/-Proprietary-red?style=flat-square) SaraSell — The Modern Digital Marketplace Platform
 
 <div align="center">
 
-### `SaraSell`
-**The Modern Digital Marketplace Platform**
+<img src="assets/sarasell_icon.png" alt="SaraSell" width="80" />
+
+<br />
 
 ![Product](https://img.shields.io/badge/Product-SaraSell-0a66c2?style=for-the-badge)
 ![Stage](https://img.shields.io/badge/Stage-Active%20Development-brightgreen?style=for-the-badge)
+![Access](https://img.shields.io/badge/Access-Closed%20Source-critical?style=for-the-badge)
 
 </div>
 
-**SaraSell** is the flagship platform developed and operated by Minus One Enterprise.
+**SaraSell** is the proprietary platform developed and operated by Minus One Enterprise.
 
-SaraSell is a modern digital marketplace built to transform peer-to-peer commerce — delivering a **fast, secure, and frictionless** experience for buyers and sellers alike.
-
-### Core Capabilities
+SaraSell is a modern digital marketplace built to transform peer-to-peer student recommerce delivering a **fast, secure, and frictionless** experience for buyers and sellers alike.
 
 | Capability | Description |
 |:-----------|:------------|
@@ -68,469 +62,53 @@ SaraSell is a modern digital marketplace built to transform peer-to-peer commerc
 | **Security** | End-to-end secure transactions and user data protection |
 | **Scalability** | Designed to grow from local communities to global commerce ecosystems |
 
-### Platform Goals
+All SaraSell source code, systems, designs, and documentation are **strictly proprietary and confidential**. Access is granted on a need-to-know basis under enterprise-grade access controls and NDAs.
 
-SaraSell removes the traditional friction of peer-to-peer commerce by focusing on:
-
-- **Simplicity** in product listing — minimum steps, maximum clarity
-- **Intuitive interaction** — users feel at home from their first session
-- **Efficient discovery** — the right product reaches the right buyer
-- **Scalable architecture** — a system designed to handle millions of users without compromise
+<br />
 
 ---
 
-## ![Open Source](https://img.shields.io/badge/-Featured%20Open%20Source%20Project-0a0a0a?style=flat-square) Featured Open Source Project — ExplainIt
+<br />
+
+### ![Open Source](https://img.shields.io/badge/-Open%20Source-22c55e?style=flat-square) ExplainIt - Transform Complex Jargon into Simple Language
 
 <div align="center">
 
-<br />
-
-<img src="public/explainit.png" alt="ExplainIt" width="100" />
+<img src="assets/explainit.png" alt="ExplainIt" width="80" />
 
 <br />
-<br />
 
-# ExplainIt
-
-### Transform Complex Jargon into Simple Language
+![Product](https://img.shields.io/badge/Product-ExplainIt-6366f1?style=for-the-badge)
+![Stage](https://img.shields.io/badge/Stage-Live-22c55e?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 <br />
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-explainit.netlify.app-6366f1?style=for-the-badge&logo=netlify&logoColor=white)](https://explainit.netlify.app)
-[![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/StellarStacker/Explain-it?style=for-the-badge&logo=github&logoColor=white&color=f59e0b)](https://github.com/StellarStacker/Explain-it/stargazers)
-[![Issues](https://img.shields.io/github/issues/StellarStacker/Explain-it?style=for-the-badge&logo=github&logoColor=white&color=ef4444)](https://github.com/StellarStacker/Explain-it/issues)
 [![Forks](https://img.shields.io/github/forks/StellarStacker/Explain-it?style=for-the-badge&logo=github&logoColor=white&color=06b6d4)](https://github.com/StellarStacker/Explain-it/network/members)
-
-<br />
-
-**ExplainIt** is an open-source AI-powered web application that transforms dense technical jargon,
-academic terminology, and industry-specific language into clear, beginner-friendly explanations.
-Built with React, Spring Boot, and Google Gemini AI.
-
-<br />
-
-[Get Started](#-quick-start) &nbsp;&bull;&nbsp; [View Demo](https://explainit.netlify.app) &nbsp;&bull;&nbsp; [Report Bug](https://github.com/StellarStacker/Explain-it/issues/new?labels=bug&template=bug_report.md) &nbsp;&bull;&nbsp; [Request Feature](https://github.com/StellarStacker/Explain-it/issues/new?labels=enhancement&template=feature_request.md)
-
-<br />
-
----
+[![Issues](https://img.shields.io/github/issues/StellarStacker/Explain-it?style=for-the-badge&logo=github&logoColor=white&color=ef4444)](https://github.com/StellarStacker/Explain-it/issues)
 
 </div>
 
-<br />
-
-## Table of Contents
-
-- [About ExplainIt](#about-explainit)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Tech Stack](#tech-stack)
-- [Quick Start](#-quick-start)
-- [Configuration](#-configuration)
-- [Project Structure](#-project-structure)
-- [Deployment](#-deployment)
-- [Contributing](#-contributing)
-- [Issue Reporting](#-issue-reporting)
-- [Roadmap](#-roadmap)
-- [License](#-license)
-- [Acknowledgments](#acknowledgments)
-
-<br />
-
-## About ExplainIt
-
-ExplainIt addresses a universal problem: complex text that blocks understanding. Whether you are a student encountering academic papers, a professional navigating legal contracts, a developer reading unfamiliar documentation, or a researcher parsing dense scientific literature, ExplainIt provides instant clarity.
-
-The application sends your input to Google's Gemini AI, which analyzes context, identifies jargon, and returns structured explanations that break down each term into plain language with relatable analogies.
-
-### Example
-
-**Input:**
-
-> "The implementation leverages a microservices architecture with containerized deployments orchestrated through Kubernetes, utilizing asynchronous message queuing patterns for inter-service communication."
-
-**Output:**
-
-> Think of this like building with LEGO blocks instead of one giant piece:
->
-> - **Microservices architecture** = Building separate small programs that each do one job well
-> - **Containerized deployments** = Each program lives in its own protective box so they don't interfere with each other
-> - **Kubernetes** = A smart manager that automatically handles all these boxes
-> - **Asynchronous message queuing** = The programs leave messages for each other, like notes in mailboxes
-
-<br />
-
-## Features
-
-| Category | Feature | Description |
-|:---------|:--------|:------------|
-| **Core** | AI-Powered Simplification | Gemini AI analyzes context and produces structured, beginner-friendly breakdowns |
-| **Core** | Smart Fallbacks | Automatic failover across multiple Gemini model variants |
-| **Core** | Text-to-Speech | Built-in voice synthesis to listen to explanations |
-| **Core** | One-Click Copy | Copy explanations to clipboard instantly |
-| **Interface** | Glassmorphism UI | Modern frosted-glass aesthetic with depth and transparency |
-| **Interface** | Dark / Light Mode | Full theme support with system preference detection |
-| **Interface** | GPU-Accelerated Animations | Smooth 60fps particle systems, transitions, and micro-interactions |
-| **Interface** | Fully Responsive | Optimized layouts for desktop, tablet, and mobile |
-| **Auth** | Google OAuth | Secure authentication via Google sign-in |
-| **Auth** | Email Verification | Account verification flow with email confirmation |
-| **Platform** | Docker Support | Multi-stage Dockerfile for containerized deployments |
-| **Platform** | Netlify Ready | Pre-configured `netlify.toml` with SPA redirect rules |
-
-<br />
-
-## Architecture
-
-```
-Client (React + Vite)          Backend (Spring Boot)          External
-+-----------------------+      +----------------------+      +------------------+
-|                       |      |                      |      |                  |
-|  Landing Page         |      |  REST API            |      |  Google Gemini   |
-|  Authentication       +----->+  Auth Service        +----->+  AI Models       |
-|  Explainer UI         |      |  Explainer Service   |      |                  |
-|  Theme Engine         |      |  User Management     |      |  Google OAuth    |
-|                       |      |                      |      |                  |
-+-----------------------+      +----------------------+      +------------------+
-```
-
-The frontend is a single-page application built with React 18 and Vite. It communicates with a Spring Boot backend via Axios. The backend handles authentication, user management, and proxies requests to the Google Gemini API for text simplification.
-
-State management is handled by Zustand, routing by React Router v7, and styling by Tailwind CSS with custom glassmorphism extensions.
-
-<br />
-
-## Tech Stack
-
-<div align="center">
-
-| Layer | Technology | Purpose |
-|:------|:-----------|:--------|
-| **Frontend** | ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black) | Component architecture and UI rendering |
-| **Frontend** | ![Vite](https://img.shields.io/badge/Vite_7-646CFF?style=flat-square&logo=vite&logoColor=white) | Build tooling, HMR, and optimized bundling |
-| **Frontend** | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS_3-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) | Utility-first styling with custom design tokens |
-| **Frontend** | ![Zustand](https://img.shields.io/badge/Zustand_5-F59E0B?style=flat-square&logo=react&logoColor=white) | Lightweight global state management |
-| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white) | REST API, auth, and business logic |
-| **AI** | ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white) | Large language model for text simplification |
-| **Auth** | ![Google OAuth](https://img.shields.io/badge/Google_OAuth_2.0-EA4335?style=flat-square&logo=google&logoColor=white) | Secure third-party authentication |
-| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Containerized deployment |
-| **Infra** | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) | Frontend hosting and CDN |
-
-</div>
-
-<br />
-
-## ![Quick Start](https://img.shields.io/badge/-Quick%20Start-0a0a0a?style=flat-square) Quick Start
-
-### Prerequisites
-
-| Requirement | Version | Installation |
-|:------------|:--------|:-------------|
-| Node.js | 18 or higher | [nodejs.org](https://nodejs.org) |
-| npm | 9 or higher | Included with Node.js |
-| Gemini API Key | -- | [Google AI Studio](https://makersuite.google.com/app/apikey) |
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/StellarStacker/Explain-it.git
-cd Explain-it
-
-# Install dependencies
-npm install
-
-# Configure environment variables
-cp .env.example .env.local
-```
-
-Edit `.env.local` and add your credentials:
-
-```env
-VITE_GEMINI_API_KEY=your_gemini_api_key_here
-VITE_APP_NAME=ExplainIt
-VITE_MAX_INPUT_LENGTH=5000
-```
-
-```bash
-# Start the development server
-npm run dev
-```
-
-The application will be available at `http://localhost:5173`.
-
-### Production Build
-
-```bash
-# Build optimized bundle
-npm run build
-
-# Preview production build locally
-npm run preview
-```
-
-<br />
-
-## ![Config](https://img.shields.io/badge/-Configuration-0a0a0a?style=flat-square) Configuration
-
-### Environment Variables
-
-| Variable | Required | Default | Description |
-|:---------|:---------|:--------|:------------|
-| `VITE_GEMINI_API_KEY` | Yes | -- | Google Gemini API key for AI processing |
-| `VITE_APP_NAME` | No | `ExplainIt` | Application display name |
-| `VITE_MAX_INPUT_LENGTH` | No | `5000` | Maximum character count for input text |
-
-### Customization Points
-
-| Area | File | What You Can Change |
-|:-----|:-----|:--------------------|
-| Colors and Theme | `tailwind.config.js` | Custom color palettes, fonts, animation timings |
-| Animations | `src/style.css`, `src/pages/LandingPage.css` | Keyframes, durations, easing functions |
-| AI Models | `src/api.js` | Gemini model variants and fallback order |
-| Components | `src/components/` | UI elements, layouts, interaction patterns |
-
-<br />
-
-## ![Structure](https://img.shields.io/badge/-Project%20Structure-0a0a0a?style=flat-square) Project Structure
-
-```
-Explain-it/
-|
-|-- public/                    # Static assets (logo, favicon)
-|-- src/
-|   |-- components/            # Reusable UI components
-|   |   |-- BackgroundEffects  # GPU-accelerated particle system
-|   |   |-- InputSection       # Text input with validation
-|   |   |-- OutputSection      # Rendered AI response with copy/TTS
-|   |   |-- Header             # App header with branding
-|   |   |-- Footer             # App footer
-|   |   |-- LoadingSection     # Processing state animations
-|   |   |-- ErrorSection       # Error handling display
-|   |   +-- SuccessModal       # Confirmation dialogs
-|   |
-|   |-- pages/
-|   |   |-- landing/           # Public landing page
-|   |   |   |-- LandingPage    # Page orchestrator with scroll reveals
-|   |   |   |-- LandingNav     # Fixed navbar with scroll effects
-|   |   |   |-- HeroSection    # Hero with gradient heading and CTAs
-|   |   |   |-- FeaturesSection# Feature cards grid
-|   |   |   |-- HowItWorksSection # Step-by-step workflow
-|   |   |   |-- DemoSection    # Interactive before/after preview
-|   |   |   |-- StarSection    # GitHub star call-to-action
-|   |   |   |-- StarToast      # Recurring social proof notification
-|   |   |   +-- BottomSections # Tech stack, CTA, and footer
-|   |   |
-|   |   |-- AppLayout          # Authenticated app shell
-|   |   |-- Login              # Login page with Google OAuth
-|   |   |-- Register           # Registration page
-|   |   +-- EmailVerification  # Email confirmation flow
-|   |
-|   |-- hooks/
-|   |   |-- useExplainer       # AI processing logic
-|   |   |-- useTheme           # Dark/light mode management
-|   |   +-- usePortal          # Portal rendering utility
-|   |
-|   |-- store/
-|   |   +-- authStore          # Zustand authentication state
-|   |
-|   |-- services/
-|   |   +-- authService        # Auth API client
-|   |
-|   |-- router/                # React Router configuration
-|   |-- api.js                 # Gemini API integration
-|   |-- config.js              # App configuration constants
-|   |-- style.css              # Global styles and design system
-|   +-- main.jsx               # Application entry point
-|
-|-- dockerfile                 # Multi-stage Docker build
-|-- netlify.toml               # Netlify deployment config
-|-- tailwind.config.js         # Tailwind + custom design tokens
-|-- vite.config.js             # Vite build configuration
-+-- package.json               # Dependencies and scripts
-```
-
-<br />
-
-## ![Deployment](https://img.shields.io/badge/-Deployment-0a0a0a?style=flat-square) Deployment
-
-### Netlify (Recommended)
-
-The repository includes a pre-configured `netlify.toml`. Deploy in three steps:
-
-```bash
-# Install the Netlify CLI
-npm install -g netlify-cli
-
-# Authenticate
-netlify login
-
-# Build and deploy to production
-npm run build
-netlify deploy --prod
-```
-
-Then add your environment variables in the Netlify dashboard under **Site Settings > Environment Variables**.
-
-### Docker
-
-```bash
-# Build the container
-docker build -t explainit .
-
-# Run on port 8080
-docker run -p 8080:80 explainit
-```
-
-### Vercel
-
-```bash
-npm install -g vercel
-vercel
-```
-
-### GitHub Pages
-
-```bash
-npm install --save-dev gh-pages
-npm run build
-npx gh-pages -d dist
-```
-
-<br />
-
-## ![Contributing](https://img.shields.io/badge/-Contributing-0a0a0a?style=flat-square) Contributing
-
-Contributions are what make the open-source community an incredible place to learn, inspire, and create. **Any contributions you make are greatly appreciated.**
-
-We welcome all forms of contribution: code, documentation, bug reports, feature suggestions, and design improvements.
-
-### Development Workflow
-
-1. **Fork** the repository
-2. **Clone** your fork locally
-   ```bash
-   git clone https://github.com/your-username/Explain-it.git
-   cd Explain-it
-   ```
-3. **Create a branch** for your work
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-4. **Make your changes** following the code standards below
-5. **Test** your changes locally
-   ```bash
-   npm run dev
-   npm run build
-   ```
-6. **Commit** with a descriptive message
-   ```bash
-   git commit -m "feat: add your feature description"
-   ```
-7. **Push** to your fork
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-8. **Open a Pull Request** against the `main` branch
-
-### Code Standards
-
-| Practice | Guideline |
-|:---------|:----------|
-| Commits | Use [Conventional Commits](https://www.conventionalcommits.org/) (`feat:`, `fix:`, `docs:`, `refactor:`) |
-| Naming | Descriptive variable and function names; avoid abbreviations |
-| Components | One component per file; keep components focused and reusable |
-| Styling | Use Tailwind utilities; extend `tailwind.config.js` for custom tokens |
-| Comments | Document complex logic; avoid obvious comments |
-
-### Types of Contributions We Welcome
-
-- **Bug Fixes** -- Found something broken? Fix it and open a PR.
-- **New Features** -- Have an idea? Check the [roadmap](#-roadmap) or propose your own.
-- **Documentation** -- Improve guides, add examples, fix typos.
-- **Design** -- Enhance UI/UX, animations, or accessibility.
-- **Performance** -- Optimize bundle size, rendering, or API calls.
-- **Testing** -- Add unit tests, integration tests, or E2E coverage.
-- **Translations** -- Help make ExplainIt available in more languages.
-
-<br />
-
-## ![Issues](https://img.shields.io/badge/-Issue%20Reporting-0a0a0a?style=flat-square) Issue Reporting
-
-We use GitHub Issues to track bugs, feature requests, and discussions. Your feedback is essential for improving ExplainIt.
-
-### Reporting a Bug
-
-Before filing a bug report, please:
-
-1. **Search existing issues** to avoid duplicates
-2. **Reproduce the issue** and note the exact steps
-3. **Include environment details** (browser, OS, Node version)
-
-[Open a Bug Report](https://github.com/StellarStacker/Explain-it/issues/new?labels=bug&template=bug_report.md)
-
-### Requesting a Feature
-
-We actively review feature requests. Please:
-
-1. **Describe the problem** the feature would solve
-2. **Propose a solution** if you have one in mind
-3. **Provide context** on why this would benefit other users
-
-[Request a Feature](https://github.com/StellarStacker/Explain-it/issues/new?labels=enhancement&template=feature_request.md)
-
-### Discussions
-
-Have a question, idea, or want to connect with other contributors?
-
-[Join Discussions](https://github.com/StellarStacker/Explain-it/discussions)
-
-<br />
-
-## ![Roadmap](https://img.shields.io/badge/-Roadmap-0a0a0a?style=flat-square) Roadmap
-
-The following features are planned or under consideration. Contributions toward any of these are welcome.
-
-| Status | Feature | Description |
-|:-------|:--------|:------------|
-| ![Planned](https://img.shields.io/badge/-Planned-6366f1?style=flat-square) | Multi-Language Support | Process and explain text in 50+ languages |
-| ![Planned](https://img.shields.io/badge/-Planned-6366f1?style=flat-square) | PDF Upload | Extract text from uploaded PDFs for simplification |
-| ![Planned](https://img.shields.io/badge/-Planned-6366f1?style=flat-square) | Browser Extension | Right-click to explain text on any website |
-| ![Planned](https://img.shields.io/badge/-Planned-6366f1?style=flat-square) | Public API | RESTful endpoints for third-party integrations |
-| ![Planned](https://img.shields.io/badge/-Planned-6366f1?style=flat-square) | Collaborative Workspaces | Share and annotate explanations with teams |
-| ![Planned](https://img.shields.io/badge/-Planned-6366f1?style=flat-square) | Usage Analytics | Dashboard with processing statistics and insights |
-| ![Future](https://img.shields.io/badge/-Future-94a3b8?style=flat-square) | Offline Mode | Local model support for air-gapped environments |
-| ![Future](https://img.shields.io/badge/-Future-94a3b8?style=flat-square) | LMS Integration | Connect with learning management platforms |
-| ![Future](https://img.shields.io/badge/-Future-94a3b8?style=flat-square) | Enterprise Edition | Multi-tenant deployment with SSO and audit logging |
-
-<br />
-
-## ![License](https://img.shields.io/badge/-License-0a0a0a?style=flat-square) License
-
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute this software. See the [LICENSE](LICENSE) file for full terms.
-
-```
-MIT License -- Copyright (c) 2026 Minus One Enterprise
-```
-
-<br />
-
-## Acknowledgments
-
-- [Google AI](https://ai.google.dev/) -- Gemini API powering the core simplification engine
-- [React](https://react.dev/) -- Component architecture and rendering
-- [Vite](https://vitejs.dev/) -- Next-generation frontend build tooling
-- [Tailwind CSS](https://tailwindcss.com/) -- Utility-first CSS framework
-- [Spring Boot](https://spring.io/projects/spring-boot) -- Backend framework
-- [Zustand](https://zustand-demo.pmnd.rs/) -- Minimal state management
-- [Netlify](https://netlify.com/) -- Frontend hosting and deployment
-- The open-source community for continued inspiration and support
-
-<br />
+**ExplainIt** is an open-source AI-powered web application that transforms dense technical jargon, academic terminology, and industry-specific language into clear, beginner-friendly explanations. Built with React, Spring Boot, and Google Gemini AI.
+
+| Capability | Description |
+|:-----------|:------------|
+| **AI-Powered Simplification** | Gemini AI analyzes context and produces structured, beginner-friendly breakdowns |
+| **Smart Fallbacks** | Automatic failover across multiple Gemini model variants |
+| **Text-to-Speech** | Built-in voice synthesis to listen to explanations |
+| **Glassmorphism UI** | Modern frosted-glass aesthetic with dark/light mode support |
+| **Google OAuth** | Secure authentication via Google sign-in |
+| **Docker Support** | Multi-stage Dockerfile for containerized deployments |
+
+ExplainIt is fully open-source under the MIT License. Contributions, bug reports, and feature requests are welcome.
+
+[View Repository](https://github.com/StellarStacker/Explain-it) &nbsp;&bull;&nbsp; [Live Demo](https://explainit.netlify.app) &nbsp;&bull;&nbsp; [Report Bug](https://github.com/StellarStacker/Explain-it/issues/new?labels=bug&template=bug_report.md) &nbsp;&bull;&nbsp; [Request Feature](https://github.com/StellarStacker/Explain-it/issues/new?labels=enhancement&template=feature_request.md)
 
 ---
 
-## ![Tech Stack](https://img.shields.io/badge/-Technology%20Stack-0a0a0a?style=flat-square) Organization Technology Stack
+## ![Tech Stack](https://img.shields.io/badge/-Technology%20Stack-0a0a0a?style=flat-square) 
 
 All Minus One Enterprise systems are built on a modern, battle-tested, enterprise-grade technology stack.
 
@@ -559,7 +137,7 @@ All Minus One Enterprise systems are built on a modern, battle-tested, enterpris
 
 ---
 
-## ![Philosophy](https://img.shields.io/badge/-Engineering%20Philosophy-0a0a0a?style=flat-square) Engineering Philosophy
+## ![Philosophy](https://img.shields.io/badge/-Engineering%20Philosophy-0a0a0a?style=flat-square) 
 
 Every system we build is guided by five core engineering principles:
 
@@ -580,7 +158,7 @@ We continuously evaluate modern frameworks, cloud technologies, and emerging eng
 
 ---
 
-## ![Vision](https://img.shields.io/badge/-Vision-0a0a0a?style=flat-square) Vision
+## ![Vision](https://img.shields.io/badge/-Vision-0a0a0a?style=flat-square) 
 
 > To create a new generation of intelligent digital platforms that simplify how people interact with technology and commerce.
 
@@ -592,40 +170,24 @@ We aim to build systems that are:
 
 ---
 
-## ![Mission](https://img.shields.io/badge/-Mission-0a0a0a?style=flat-square) Mission
+## ![Mission](https://img.shields.io/badge/-Mission-0a0a0a?style=flat-square) 
 
 > To engineer technology that removes complexity and empowers people to interact with digital systems more efficiently.
 
 ---
 
-## ![Organization](https://img.shields.io/badge/-Organization-0a0a0a?style=flat-square) Organization
+## ![Organization](https://img.shields.io/badge/-Organization-0a0a0a?style=flat-square) 
 
-Minus One Enterprise operates as a **closed, professional technology organization**.
+Minus One Enterprise operates as a **professional technology organization** with both proprietary and open-source initiatives.
 
-- All team members operate under strict confidentiality agreements
-- Access to internal systems and codebases is granted on a need-to-know basis
-- All development work, intellectual property, and platform operations remain entirely internal
+- All proprietary systems (SaraSell) are internally managed under strict confidentiality agreements
+- Access to proprietary codebases is granted on a need-to-know basis
+- Open-source projects (ExplainIt) welcome community contributions under their respective licenses
 - External partnerships and integrations are subject to formal contractual review
-
-We do not accept unsolicited contributions, external pull requests, or open-source collaboration of any kind.
 
 ---
 
 <div align="center">
-
-<br />
-
-**If ExplainIt has been useful to you, consider giving it a star. It helps others discover the project.**
-
-<br />
-
-[![Star on GitHub](https://img.shields.io/github/stars/StellarStacker/Explain-it?style=for-the-badge&logo=github&logoColor=white&label=Star&color=f59e0b)](https://github.com/StellarStacker/Explain-it)
-&nbsp;&nbsp;
-[![Fork on GitHub](https://img.shields.io/github/forks/StellarStacker/Explain-it?style=for-the-badge&logo=github&logoColor=white&label=Fork&color=6366f1)](https://github.com/StellarStacker/Explain-it/fork)
-&nbsp;&nbsp;
-[![Report Issue](https://img.shields.io/badge/Report_Issue-GitHub-ef4444?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StellarStacker/Explain-it/issues)
-
-<br />
 
 ---
 
@@ -636,10 +198,6 @@ We do not accept unsolicited contributions, external pull requests, or open-sour
 
 Built and maintained by **[Minus One Enterprise](https://github.com/Minus-one-enterprise)**
 
-Licensed under [MIT](LICENSE)
-
 ---
-
-[Back to Top](#minus-one-enterprise)
 
 </div>
